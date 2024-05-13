@@ -100,7 +100,7 @@ while True:
     
 
 
-    print("Fickpmjk<snai")
+    print("Oha")
 
 
 
